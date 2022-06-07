@@ -1,0 +1,223 @@
+CV:
+  name: Diop
+  firstname: Saliou Alpha
+  country: France
+  city: Saint-Sébastien-Sur-Loire
+  phone: +33 7 88 72 10 28
+  mail: diop.alpha@gmail.com
+  title: Software, Web, Blockchain Engineer
+  description: Traveler, Designer, Humanophile
+
+  strong-points:
+  - 8 years in Software Development
+  - Fluent in English, lived in the Americas, Europe, Africa
+  - Experience with Blockchain technologies
+  - Strong interest in Ethics and Humanities
+
+  key-experiences:
+  - Blockchain Developer, created https://www.tribalcreative.xyz and the Smart-Contracts powering the protocol.
+  - Extensive experience with agile Spring Boot teams, and CI/CD workflows.
+  - Lead Tech at Atos Sénégal, in project TPD, for an API powered by Spring Boot and Openshift
+  - Freelance on my creations, Before A.G. a web app powered by Ruby on Rails, and Jakarloo powered by Sails.js and Node.
+
+  education:
+  - 2010:
+    institution: Western Carolina University
+    location: Cullowhee, North Carolina, USA
+    cert: Bachelors of Computer Science
+  - 2008:
+    institution: EAI Tech
+    location: Sophia Antipolis, Côte-d'Azur, France
+  - 2006:
+    institution: Lycée Jean Mermoz
+    location: Tunis, Tunisia
+    cert: Baccalauréat Scientifique
+
+  languages:
+  - french:
+    level: Mother-tongue
+  - english:
+    level: Fluent
+
+  skills:
+    languages:
+    - Java
+    - Ruby
+    - Javascript/ECMAScript
+    - Solidity
+    - Kotlin
+    - HTML5
+    - C#
+    framework:
+    - Spring Boot
+    - Ruby on Rails
+    - React.js
+    - Hardhat
+    - Truffle
+    - Express
+    - Sails.js
+    - Angular
+    environments:
+    - Android
+    - Unity 3D
+    - Node.js
+    databases:
+    - MySQL
+    - MongoDB
+    - Postgresql
+    dev-tools:
+    - git
+    - bash
+    - npm
+    - maven
+    - yaml
+    - json
+    - xml
+    coding:
+    - vim
+    - IntelliJ IDEA
+    - VS Code
+    - 
+    CI/CD:
+    - Gitlab
+    - Openshift
+    - Kubernetes
+    - Docker
+    - Jenkins
+    - Heroku
+    - Azure
+    - Sonarqube
+    project-management:
+    - Jira
+    - Sharepoint
+    - Mattermost
+    - Slack
+    methodology:
+    - Agile
+    - LEAN
+    - Dev-Ops
+    - Test-Driven
+    - SCRUM
+    - Kanban
+
+
+  experiences:
+  - Tribal Creative:
+    start: 02/2022
+    end: 01/06/2022
+    url: https://www.tribalcreative.xyz    
+    technologies:
+    - Solidity
+    - React.js
+    - Node.js
+    - git
+    - Github
+    - Heroku
+    - Ganache
+  - SII:
+    start: 01/03/2020
+    end: 22/01/2022
+    missions:
+    - MyMoneyBank:
+      project:
+        name: MyAccessPro
+        role: 
+          name: Back-end Developer
+          description:
+            en: Developing and Maintaining functionalities on the API Dossier and the MyAccessPro platform
+            fr: Création et Maintenance de fonctionalités sur l'API Dossier et la plateforme MyAccessPro
+    - Kolabee:
+      project:
+        name: Fête de la Vie
+        project-description:
+          en: An Android app allowing its users to follow a list of Health routes with geo-located Steps
+          fr: Une app Android permettant à ses utilisateurs de suivre une liste de parcours de Santé avec des Etapes geo-localisés
+        role:
+          name: Lead Developer
+          description:
+            en: Responsible of the Organization, Presentation, and Delivery of the Project 
+            fr: Responsable de l'organisation, de la présentation et de la livraison du projet
+          responsibilities:
+          - 1:
+            en: Consult with the Client on techs and the feasibility of features
+            fr: Consultation avec le Client sur les technologies et la faisabilité de features
+          - 2:
+            en: Implement of the Roadmap for the Development and Delivery of the app
+            fr: Mise en place de la Feuille de Route pour le Développement et la Livraison de l'app
+          - 3:
+            en: Develop the Rest API with Spring Boot
+            fr: Développement de l'API Rest avec Spring Boot
+    - EV Tech:
+      project:
+        name: Project MPD
+        project-description:
+          en: Development and Maintenance of a Rest API allowing users to purchase TER tickets and plan their travels through the TER network
+          fr: Développement et maintenance d'une API Rest permettant aux utilisateurs d'acheter des billets TER et de planifier leurs déplacements à travers le réseau TER
+        role:
+          name: Software Developer
+          description:
+            en: Tasked with creating API endpoints and with monitoring services
+            fr: Création d'endpoints API et surveillance de services
+          responsibilities:
+          - 1:
+            en: Create Endpoints for data fetching for client applications
+            fr: Création de Endpoints pour la remontée de données d'applications distributrices
+          - 2:
+            en: Use Grafana for the analysis and reporting of performance of load testing
+            fr: Exploitation de Grafana pour l'analyse et le reporting des performances des tirs de charge
+    technologies:
+    - Spring Boot
+    - Gitlab
+    - Java 8
+      Jira
+    - IntelliJ IDEA
+    - Grafana
+    - Postman
+    - Android
+  - Objectware:
+    start: 09/2019
+    end: 02/2020
+    missions:
+    - Sopra Steria:
+      project: 
+        name: PLAT'AU
+        description:
+          en: 
+          fr: 
+    technologies:
+    - Java 11
+    - Spring Boot
+    - git
+    - Docker
+    - Gitlab
+    - Sonatype Nexus
+    - Kubernetes
+    - Swagger codegen
+  - Atos Sénégal:
+    start: 11/2015
+    end: 07/2019
+    missions:
+    - Equeens Worldline
+    - Worldline Séclin
+  - Jakarloo:
+    start: 10/2014
+    end: 11/2015
+    technologies:
+    - Sails.js
+    - Node.js
+  - Nelam Services:
+    start: 2012
+    end: 06/2013
+    technologies:
+    - Android
+    - Material
+  - Before A.G.:
+    start: 2012
+    end: 06/2013
+    technologies:
+    - Ruby on Rails
+  - Way2Call:
+    start: 01/2011
+    end: 02/2012
+    technologies:
+    - Django
