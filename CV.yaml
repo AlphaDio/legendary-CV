@@ -182,8 +182,8 @@ CV:
       project: 
         name: PLAT'AU
         description:
-          en: 
-          fr: 
+          en: Creating an API handling the creation and editing of CERFAs documents in French \"mairies\"
+          fr: Création d'une API gérant les CERFAs et autres documents administratifs auprés des mairies 
     technologies:
     - Java 11
     - Spring Boot
@@ -197,11 +197,36 @@ CV:
     start: 11/2015
     end: 07/2019
     missions:
-    - Equeens Worldline
-    - Worldline Séclin
+    - Equeens Worldline:
+      project:
+        name: Paylib
+        description:
+          en: Rewriting and Maintenance of the online payment system Paylib. 
+          fr: Correction d'anomalies et Maintenance de la solution de paiement en ligne Paylib.
+    - Worldline Séclin:
+      project:
+        name: DMP (Dossier Medical Partagé)
+    - Worldline Grenoble:
+      project:
+        name: SmartGrid
+    technologies:
+    - Java 8
+    - Jira
+    - JBoss
+    - git
+    - putty
+    - Splunk
+    - Postman
+    - MySQL
+    - Mattermost
   - Jakarloo:
     start: 10/2014
     end: 11/2015
+    role:
+      name: Project Creator
+      description:
+        en: 
+        fr:
     technologies:
     - Sails.js
     - Node.js
