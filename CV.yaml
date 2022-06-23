@@ -15,10 +15,10 @@ CV:
   - Strong interest in Ethics and Humanities
 
   key-experiences:
-  - Blockchain Developer, created https://www.tribalcreative.xyz and the Smart-Contracts powering the protocol.
-  - Extensive experience with agile Spring Boot teams, and CI/CD workflows.
+  - Blockchain Developer, created https://www.tribalcreative.xyz and the Smart-Contracts powering the protocol
+  - Extensive experience with agile Spring Boot teams, and CI/CD workflows
   - Lead Tech at Atos Sénégal, in project TPD, for an API powered by Spring Boot and Openshift
-  - Freelance on my creations, Before A.G. a web app powered by Ruby on Rails, and Jakarloo powered by Sails.js and Node.
+  - Freelance on my creations, Before A.G. a web app powered by Ruby on Rails, and Jakarloo powered by Sails.js and Node
 
   education:
   - 2010:
@@ -48,7 +48,7 @@ CV:
     - Kotlin
     - HTML5
     - C#
-    framework:
+    frameworks:
     - Spring Boot
     - Ruby on Rails
     - React.js
@@ -77,7 +77,7 @@ CV:
     - vim
     - IntelliJ IDEA
     - VS Code
-    - 
+    - Netbeans
     CI/CD:
     - Gitlab
     - Openshift
@@ -106,10 +106,26 @@ CV:
     start: 02/2022
     end: 01/06/2022
     url: https://www.tribalcreative.xyz    
+    role:
+      name: Solidity Lead, Protocol Designer
+      description:
+        en: Create the Tribal Protocol, a blockchain-based protocol to fund and reward story, games, and content creation
+        fr: Création du Tribal Protocol, un protocol alimenté par la blockchain pour encourager la création d'histoires, jeux, et contenues divertissants.
+      responsibilities:
+      - 1:
+        en: Create Solidity Smart-Contracts
+        fr: Création de Smart-Contracts Solidity
+      - 2:
+        en: Deploy a React.js front-end to interact and fetch data from Smart-Contracts
+        fr: Déploiement d'un front-end React.js pour intéragir avec et recupérer des données venant des Smart-Contracts
+      - 3:
+        en: Create tools to make NFT images out of layers
+        fr: Création d'outils pour faire des images pour NFTs en utilisant des couches d'images
     technologies:
     - Solidity
     - React.js
     - Node.js
+    - Javascript
     - git
     - Github
     - Heroku
@@ -201,8 +217,8 @@ CV:
       project:
         name: Paylib
         description:
-          en: Rewriting and Maintenance of the online payment system Paylib. 
-          fr: Correction d'anomalies et Maintenance de la solution de paiement en ligne Paylib.
+          en: Rewriting and Maintenance of the online payment system Paylib
+          fr: Correction d'anomalies et Maintenance de la solution de paiement en ligne Paylib
     - Worldline Séclin:
       project:
         name: DMP (Dossier Medical Partagé)
@@ -225,24 +241,58 @@ CV:
     role:
       name: Project Creator
       description:
-        en: 
-        fr:
+        en: Creating, Designing an Android app, and deploying its Sails.js back-end
+        fr: Création, Design d'une application Android, et déploiement de son back-end Sails.js
     technologies:
+    - Android 5 (MARSHMALLOW)
+    - Android Studio
     - Sails.js
     - Node.js
+    - Sublime Text 2
+    - MongoDB
   - Nelam Services:
     start: 2012
     end: 06/2013
+    role:
+      name: Android Developer
+      description:
+        en: Create the Agendakar and Ndakkaru Android application
+        fr: Réalisation des plateformes mobiles Android des sites Agendakar et Ndakaaru
     technologies:
     - Android
-    - Material
+    - Eclipse
+    - Sublime Text 2
+    - Git
+    - Material Design
   - Before A.G.:
     start: 2012
     end: 06/2013
+    role:
+      name: Freelance Web Developer
+      description:
+        en: Create the Before A.G. web app, a web-based play-by-post Roleplaying game.
+        fr: Création de l'application web Before A.G., une plateforme de jeu de rôle sur le web.
     technologies:
     - Ruby on Rails
+    - HTML5
+    - CSS3
+    - YAML
+    - Ubuntu
+    - Git
+    - Bitcoin (integration of Bitcash)
   - Way2Call:
     start: 01/2011
     end: 02/2012
+    role:
+      name: Stagiaire
+       description:
+        en: Technical assistance and tools development
+        fr: Assistance technique et création d'outils informatique
+    technologies:
+    - Python
+    - Django
+    - Ruby on Rails
+    - MySQL
+    - SVN
     technologies:
     - Django
