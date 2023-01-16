@@ -213,6 +213,14 @@ CV:
     start: 11/2015
     end: 07/2019
     missions:
+    - Project TPD:
+      project:
+        name: TPD
+        description:
+          en:
+          fr:
+        technologies:
+        - RedHat Openshift
     - Equeens Worldline:
       project:
         name: Paylib
