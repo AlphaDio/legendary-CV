@@ -220,7 +220,7 @@ CV:
               en:
               fr:
             technologies:
-            - RedHat Openshift
+              - RedHat Openshift
         - Equeens Worldline:
           project:
             name: Paylib
