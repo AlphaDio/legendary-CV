@@ -43,7 +43,7 @@ CV:
     languages:
       - Java
       - Ruby
-      - Javascript/ECMAScript
+      - Javascript/TypeScript
       - Solidity
       - Kotlin
       - HTML5
