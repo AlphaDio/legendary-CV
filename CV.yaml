@@ -154,15 +154,15 @@ CV:
                 en: Responsible of the Organization, Presentation, and Delivery of the Project 
                 fr: Responsable de l'organisation, de la présentation et de la livraison du projet
               responsibilities:
-              - 1:
-                en: Consult with the Client on techs and the feasibility of features
-                fr: Consultation avec le Client sur les technologies et la faisabilité de features
-              - 2:
-                en: Implement of the Roadmap for the Development and Delivery of the app
-                fr: Mise en place de la Feuille de Route pour le Développement et la Livraison de l'app
-              - 3:
-                en: Develop the Rest API with Spring Boot
-                fr: Développement de l'API Rest avec Spring Boot
+                - 1:
+                  en: Consult with the Client on techs and the feasibility of features
+                  fr: Consultation avec le Client sur les technologies et la faisabilité de features
+                - 2:
+                  en: Implement of the Roadmap for the Development and Delivery of the app
+                  fr: Mise en place de la Feuille de Route pour le Développement et la Livraison de l'app
+                - 3:
+                  en: Develop the Rest API with Spring Boot
+                  fr: Développement de l'API Rest avec Spring Boot
         - EV Tech:
           project:
             name: Project MPD
@@ -175,12 +175,12 @@ CV:
                 en: Tasked with creating API endpoints and with monitoring services
                 fr: Création d'endpoints API et surveillance de services
               responsibilities:
-              - 1:
-                en: Create Endpoints for data fetching for client applications
-                fr: Création de Endpoints pour la remontée de données d'applications distributrices
-              - 2:
-                en: Use Grafana for the analysis and reporting of performance of load testing
-                fr: Exploitation de Grafana pour l'analyse et le reporting des performances des tirs de charge
+                - 1:
+                  en: Create Endpoints for data fetching for client applications
+                  fr: Création de Endpoints pour la remontée de données d'applications distributrices
+                - 2:
+                  en: Use Grafana for the analysis and reporting of performance of load testing
+                  fr: Exploitation de Grafana pour l'analyse et le reporting des performances des tirs de charge
       technologies:
         - Spring Boot
         - Gitlab
